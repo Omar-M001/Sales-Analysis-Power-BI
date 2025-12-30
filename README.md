@@ -2,20 +2,20 @@ This Power BI report presents an interactive sales and performance analysis buil
 
 **Key Highlights**
 
-**Sales & Profit Margin Analysis**
+**Sales & Profit Margin Analysis:**
 Monthly sales trends combined with profit margin performance allow easy identification of high- and low-performing periods.
 
-**Sales vs Target Tracking**
+**Sales vs Target Tracking:**
 Comparison of actual sales against targets with KPI indicators for total sales, variance, and variance margin.
 
-**Geographical & Category Insights**
+**Geographical & Category Insights:**
 Sales breakdown by country and product category, along with quantity analysis to understand demand distribution.
 
-**Interactive Scatter Analysis Over Time**
+**Interactive Scatter Analysis Over Time:**
 A dynamic scatter visual showing sales vs. profit margin, with bubble size representing quantity.
 The chart is animated by quarter, allowing users to play through time and observe how each business type’s performance evolves quarter by quarter.
 
-**Interactive Filtering**
+**Interactive Filtering:**
 Slicers for year and region enable dynamic exploration of the data.
 
 **Dataset**
