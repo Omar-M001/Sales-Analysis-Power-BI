@@ -46,6 +46,6 @@ Portfolio and learning project demonstrating skills in Power BI report design, d
 ### Business Performance by Type and Quarter
 ![Business Type Scatter](Scatter_chart.png)
 
-### Sales Forecast
+### Forecast visual showing predicted sales trends beyond historical data.
 ![Forecast visual showing predicted sales trends beyond historical data.](Forecast.png)
 
