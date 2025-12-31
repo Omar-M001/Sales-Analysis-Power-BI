@@ -2,7 +2,8 @@
 
 **This Power BI report presents an interactive sales and performance analysis built using the AdventureWorks sample database. The goal of the report is to provide clear insights into sales trends, profitability, targets, and business performance across time, regions, and product categories.**
 
-### Note: I’m unable to share the Power BI interactive Dashboard directly because it requires a Power BI Pro license.
+### Note: I’m unable to share the Power BI interactive Dashboard or report directly because it requires a Power BI Pro license.
+
 
 **Key Highlights**
 
