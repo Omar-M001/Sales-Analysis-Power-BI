@@ -1,9 +1,18 @@
+### Sales Analysis in Power BI
+
 This Power BI report presents an interactive sales and performance analysis built using the AdventureWorks sample database. The goal of the report is to provide clear insights into sales trends, profitability, targets, and business performance across time, regions, and product categories.
 
 **Key Highlights**
 
 **Sales & Profit Margin Analysis:**
 Monthly sales trends combined with profit margin performance allow easy identification of high- and low-performing periods.
+
+**Sales Forecasting:**
+Forecasting is added directly to the sales time series chart to predict future sales based on historical trends.
+
+Users can adjust forecast length and confidence intervals for predictive insights.
+
+Forecast visualization includes confidence bands for risk-aware planning.
 
 **Sales vs Target Tracking:**
 Comparison of actual sales against targets with KPI indicators for total sales, variance, and variance margin.
@@ -12,10 +21,9 @@ Comparison of actual sales against targets with KPI indicators for total sales, 
 Sales breakdown by country and product category, along with quantity analysis to understand demand distribution.
 
 **Interactive Scatter Analysis Over Time:**
-A dynamic scatter visual showing sales vs. profit margin, with bubble size representing quantity.
-The chart is animated by quarter, allowing users to play through time and observe how each business type’s performance evolves quarter by quarter.
+A dynamic scatter visual shows sales vs. profit margin, with bubble size representing quantity. The chart is animated by quarter, allowing users to observe how each business type’s performance evolves over time.
 
-**Interactive Filtering:**
+Interactive Filtering
 Slicers for year and region enable dynamic exploration of the data.
 
 **Dataset**
@@ -24,13 +32,8 @@ Built using the AdventureWorks sample database, a Microsoft-provided dataset for
 
 **Purpose**
 
-Portfolio and learning project. Demonstrates skills in Power BI report design, data modeling, DAX, and interactive storytelling.
+Portfolio and learning project demonstrating skills in Power BI report design, data modeling, DAX, and interactive storytelling.
 
-**Usage Notes**
-
-Open the .pbix file in Power BI Desktop to fully experience the interactive visuals, including the time-based scatter animation.
-
-Screenshots are included to preview key dashboards and visuals.
 
 ## Dashboard Preview
 
@@ -43,4 +46,6 @@ Screenshots are included to preview key dashboards and visuals.
 ### Business Performance by Type and Quarter
 ![Business Type Scatter](Scatter_chart.png)
 
+### Sales Forecast
+![Forecast visual showing predicted sales trends beyond historical data.](Forecast.png)
 
