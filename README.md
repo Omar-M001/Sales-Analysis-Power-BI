@@ -49,3 +49,7 @@ Portfolio and learning project demonstrating skills in Power BI report design, d
 ### Forecast visual showing predicted sales trends beyond historical data.
 ![Forecast visual showing predicted sales trends beyond historical data.](Forecast.png)
 
+### Model View
+![Data Model and relationships between tables](Model_View.png)
+
+
